@@ -1,4 +1,4 @@
-# EDGER Waterhemp analysis ####################
+# EDGER Differentially expression analysis ####################
 
 
 # packages ===================================
